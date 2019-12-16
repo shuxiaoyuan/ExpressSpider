@@ -7,9 +7,6 @@
 # idea project file
 .idea/
 
-# idea venv directory
-venv/
-
 ######  the following is from github    ######
 
 # Byte-compiled / optimized / DLL files
