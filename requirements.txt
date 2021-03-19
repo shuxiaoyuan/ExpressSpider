@@ -1,5 +1,5 @@
 packaging==19.2
-Pillow==6.2.1
+Pillow==8.1.1
 pip-review==1.0
 pyparsing==2.4.5
 selenium==3.141.0
